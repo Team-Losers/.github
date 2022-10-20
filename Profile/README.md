@@ -14,8 +14,7 @@
 
 <div align="center">
 
-![Team-Losers](https://github.com/Team-Losers/.github/blob/main/Team-Losers.png)
-
+![Team-Losers](https://user-images.githubusercontent.com/62154896/196847145-c8d38de8-dc21-4419-a3c0-c114c4720647.png)
 [ Mr. Kim의 모습 ]
 
 </div>
