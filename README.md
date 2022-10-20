@@ -12,11 +12,3 @@
 
 </div>
 
-<div align="center">
-
-
-![devloper,man,boy,nerd,programmer,hacker,computer,a room,night,black hair,white skin s-2168853804](https://user-images.githubusercontent.com/62154896/196843784-53e6d84c-90c6-4aca-ae19-c2db3767ade0.png)
-
-[ Mr. Kim의 모습 ]
-
-</div>
