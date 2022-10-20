@@ -1,7 +1,7 @@
 <h2 align="center"> Team-TheJB </h2>
 </div>
 
-<h3 align="center"> What does mean the losers? </h3> 
+<h3 align="center"> What does mean the Team-TheJB? </h3> 
 
 
 <div align="center">
